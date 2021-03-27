@@ -25,7 +25,7 @@ Node = Tuple[int, int]
 Value = route.Plan
 #しきり数(チェックポイント数どこにあるんかわからん)
 item = 31
-#遺伝子数
+#遺伝子すう
 idensisuu = 1
 #GAのループ数
 galoop = 0
